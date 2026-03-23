@@ -1,0 +1,12 @@
+storeappplay.json 
+{
+  "description": "Meu projeto Node.js hospedado no Render - API/site pessoal de Contagem/MG",
+  "repo": "https://github.com/ineiderbeirodasilva12/SEU-REPO-AQUI",
+  "owner": {
+    "username": "ineiderbeirodasilva12",
+    "email": "seuemailreal@example.com"
+  },
+  "records": {
+    "CNAME": "seu-projeto.onrender.com"
+  }
+}
