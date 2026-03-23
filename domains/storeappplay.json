@@ -1,0 +1,12 @@
+storeappplay.json
+{
+  "description": "Meu projeto Node.js hospedado na VPS em Contagem/MG - API/site pessoal",
+  "repo": "https://github.com/ineiderbeirodasilva12-sudo/storeappplay",
+  "owner": {
+    "username": "ineiderbeirodasilva12-sudo",
+    "email": "seuemailreal@gmail.com"
+  },
+  "records": {
+    "A": ["151.245.229.247"]
+  }
+}
